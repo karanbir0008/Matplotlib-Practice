@@ -28,8 +28,3 @@ This repo serves as my playground to practice, learn, and experiment with differ
 
 ---
 
-## 📌 How to Run  
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/matplotlib-practice.git
-   cd matplotlib-practice
